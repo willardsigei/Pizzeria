@@ -11,6 +11,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   color: #222;
   padding-bottom: 50px;
+  
 }
 .container {
   max-width: 1200px;
@@ -68,11 +69,9 @@ body {
 }
 body {
     font-family: 'Muli', sans-serif;
-    display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
-    overflow: hidden;
     margin: 0;
   }
   
@@ -82,7 +81,7 @@ body {
   }
   
   .panel {
-      top: 80px;
+    top: 100px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -124,3 +123,7 @@ body {
       display: none;
     }
   }
+.text-center2{
+    position: relative;
+   top: 100px;
+}
