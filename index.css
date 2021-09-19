@@ -125,7 +125,6 @@ body {
     }
   }
 .text-center2 {
-
      position: relative;
      top: 100px;
 }
@@ -133,3 +132,9 @@ body {
     position: relative;
     top: 100px;
 }
+
+tbody>tr>td{
+    color: rgb(43, 42, 42);
+    font-size:18px;
+    font-weight: 500;
+  }
