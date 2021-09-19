@@ -142,18 +142,19 @@ tbody>tr>td{
 
   .card-title{
     text-align: center;
-    color: red;
+    color: rgb(43, 255, 0);
     font-weight: 800;
   }
   .var h2{
-    color: rgb(216, 16, 9);
-    padding-top: 40px;
+      position: relative;
+    padding-top: 80px;
     padding-bottom: 20px;
     font-weight: bolder;
     text-align: center;
+    top: 30px;
   }
   .col-md-4{
-    border-radius: 10%;
+    border-radius: 30%;
     padding: 10px;
   }
 .grid-container {
@@ -161,4 +162,7 @@ tbody>tr>td{
     grid-template-columns: auto auto auto;
     padding: auto;
 
+}
+.card-img-top{
+    border-radius: 30px;
 }
