@@ -138,3 +138,27 @@ tbody>tr>td{
     font-size:18px;
     font-weight: 500;
   }
+
+
+  .card-title{
+    text-align: center;
+    color: red;
+    font-weight: 800;
+  }
+  .var h2{
+    color: rgb(216, 16, 9);
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+    text-align: center;
+  }
+  .col-md-4{
+    border-radius: 10%;
+    padding: 10px;
+  }
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: auto;
+
+}
