@@ -165,4 +165,5 @@ tbody>tr>td{
 }
 .card-img-top{
     border-radius: 30px;
+    cursor: pointer;   
 }
