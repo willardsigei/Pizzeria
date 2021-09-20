@@ -9,6 +9,16 @@ To visit this site, You need to have the following;
 2. Mobile/Computer browser (e.g chrome,mozila firefox etc.)
 ## Known Bugs
 No known bugs so far.
+
+## Behaviour Driven Development (BDD)
+|Behaviour 	           |    Input 	                 |       Output          |
+|----------------------|:---------------------------:|----------------------:|       
+|Place order button is clicked |User selects a pizza size,toppings,crust,size and toppings |Add button displayed |
+|Page loads and table of all orders is displayed |User selects the checkout button   |The total price of the corresponding pizza crust is displayed|
+|Page loads and user is prompted if they want pickup or home delivery |User selects their preference  |The price of home delivery increases by 200 kshs.|
+|Page loads and user is prompted to enter their location|User selects their place of pickup |User gets the alert message that their order would be delivered.|
+
+
 ### Technologies Used
 ### html
 ### css
