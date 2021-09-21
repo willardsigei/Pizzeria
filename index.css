@@ -182,3 +182,17 @@ tbody>tr>td{
 #billAmount {
   color: black;
 }
+#header{
+  font-family: 'Tangerine', serif;
+font-size: 60px;
+text-align: center;
+
+font-weight:bold;
+text-shadow: 6px 4px 4px rgb(172, 15, 132);
+
+
+
+}
+#text{
+  color: #c0392b;
+}
