@@ -74,8 +74,8 @@ body {
 }
 body {
     font-family: 'Muli', sans-serif;
-    align-items: center;
-    justify-content: center;
+    /* align-items: center;
+    justify-content: center; */
     height: 100vh;
     margin: 0;
   }
@@ -170,4 +170,15 @@ tbody>tr>td{
 .card-img-top{
     border-radius: 30px;
     cursor: pointer;   
+}
+
+
+
+tbody>tr>td{
+  color: rgb(43, 42, 42);
+  font-size:18px;
+  font-weight: 500;
+}
+#billAmount {
+  color: black;
 }
